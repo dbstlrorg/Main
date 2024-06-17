@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GAFMAA63BAHHCAL7SK4SRWLDBHY7JTTMS732KSLPUVLJZ6IIRNFAUDDB"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="De Beers"
+ORG_URL="https://www.stellar-db.org/"
+ORG_DESCRIPTION="The De Beers Group is a South African-British corporation that specializes in the diamond industry, including mining, exploitation, retail, inscription, grading, trading and industrial diamond manufacturing."
+ORG_LOGO="https://www.stellar-db.org/db.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="DEBEERS"
 status="live"
 display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+issuer="GAFMAA63BAHHCAL7SK4SRWLDBHY7JTTMS732KSLPUVLJZ6IIRNFAUDDB"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="De Beers"
+desc="The De Beers Group is a South African-British corporation that specializes in the diamond industry, including mining, exploitation, retail, inscription, grading, trading and industrial diamond manufacturing."
+image="https://www.stellar-db.org/db.png"
